@@ -1,6 +1,6 @@
 <h2 align="left">Connect with me:</h2>
 <p align="left">
-<a href="https://www.linkedin.com/in/vlad-shumkov-a1aa6b211/"><img src="https://img.shields.io/badge/Linkedin-blue?logo=linkedin&style=for-the-badge" alt="linkedin" /></a>
+<a href="https://www.linkedin.com/in/vladyslav-shumkov/"><img src="https://img.shields.io/badge/Linkedin-blue?logo=linkedin&style=for-the-badge" alt="linkedin" /></a>
 </p>
 
 <h2 align="left">My stack:</h2>
